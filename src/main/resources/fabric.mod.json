@@ -20,6 +20,11 @@
   "entrypoints": {
     "main": [
       "de.ambertation.playfull.Playfull"
+    ],
+    "client": [
+      {
+        "value": "de.ambertation.playfull.PlayfullClient"
+      }
     ]
   },
   "mixins": [
